@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\Blog-Template.css",
+      "PackagePath": "staticwebassets\\css\\Blog-Template.css"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\Post-Template.css",
+      "PackagePath": "staticwebassets\\css\\Post-Template.css"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\nicepage.css",
+      "PackagePath": "staticwebassets\\css\\nicepage.css"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\Главная.css",
+      "PackagePath": "staticwebassets\\css\\Главная.css"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\Заявки.css",
+      "PackagePath": "staticwebassets\\css\\Заявки.css"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\Просмотр-заявок.css",
+      "PackagePath": "staticwebassets\\css\\Просмотр-заявок.css"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\Просмотр-приложений.css",
+      "PackagePath": "staticwebassets\\css\\Просмотр-приложений.css"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\Редактирование-заявки.css",
+      "PackagePath": "staticwebassets\\css\\Редактирование-заявки.css"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\Создание-заявки.css",
+      "PackagePath": "staticwebassets\\css\\Создание-заявки.css"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\0fd3416c.jpeg",
+      "PackagePath": "staticwebassets\\images\\0fd3416c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\68f64b9d.jpeg",
+      "PackagePath": "staticwebassets\\images\\68f64b9d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\8ad73f3c.jpeg",
+      "PackagePath": "staticwebassets\\images\\8ad73f3c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\default-image.jpg",
+      "PackagePath": "staticwebassets\\images\\default-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-david-underland-3277468.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-david-underland-3277468.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-francisco-valerio-trujillo-1824392.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-francisco-valerio-trujillo-1824392.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-john-lee-6434779.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-john-lee-6434779.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-john-lee-6766628.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-john-lee-6766628.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-matej-776336.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-matej-776336.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-mitchell-luo-3694708.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-mitchell-luo-3694708.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-olga-lioncat-7245550.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-olga-lioncat-7245550.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-photo-218863.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-218863.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-photo-2659177.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-2659177.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-photo-3851285.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-3851285.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-photo-733500copy.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-733500copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-sevenstorm-juhaszimrus-425160.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-sevenstorm-juhaszimrus-425160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\images\\pexels-todd-trapani-2276927.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-todd-trapani-2276927.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\intlTellnput\\intlTelInput.css",
+      "PackagePath": "staticwebassets\\intlTellnput\\intlTelInput.css"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\intlTellnput\\intlTelInput.min.js",
+      "PackagePath": "staticwebassets\\intlTellnput\\intlTelInput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\intlTellnput\\utils.js",
+      "PackagePath": "staticwebassets\\intlTellnput\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\shared\\jquery.js",
+      "PackagePath": "staticwebassets\\shared\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\shared\\nicepage.js",
+      "PackagePath": "staticwebassets\\shared\\nicepage.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CftTestWebSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CftTestWebSite.props",
+      "PackagePath": "build\\CftTestWebSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CftTestWebSite.props",
+      "PackagePath": "buildMultiTargeting\\CftTestWebSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CftTestWebSite.props",
+      "PackagePath": "buildTransitive\\CftTestWebSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
