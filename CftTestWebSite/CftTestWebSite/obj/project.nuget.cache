@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sLt5erTG9p3dpmU4jB7gwtNTsqa+Fzip2YCMPstXX2hp+KzsfrxTMcbWZSPC4dQ3pEFhn/mGdn+TUH0mEnNU1w==",
+  "dgSpecHash": "y57vFL0SX+kkcuWCjVq+GaZp/hcSAKODqUC98UFoX5/y1JNJ8vuuPhVNc73xXfL8YdKW3gknHJTfcKq2T9wnrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\CftTestWebSite.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zhernakov_na\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

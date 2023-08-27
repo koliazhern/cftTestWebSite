@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\nicepage.css"
     },
     {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\paginator.css",
+      "PackagePath": "staticwebassets\\css\\paginator.css"
+    },
+    {
       "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\Главная.css",
       "PackagePath": "staticwebassets\\css\\Главная.css"
     },
@@ -123,6 +127,10 @@
     {
       "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\shared\\nicepage.js",
       "PackagePath": "staticwebassets\\shared\\nicepage.js"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\shared\\paginator.js",
+      "PackagePath": "staticwebassets\\shared\\paginator.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CftTestWebSite.Microsoft.AspNetCore.StaticWebAssets.props",

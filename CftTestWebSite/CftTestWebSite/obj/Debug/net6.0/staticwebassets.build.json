@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+1ppM5QDo881oYChxVqAbsJxCfQxDhiD9z4moVjANH4=",
+  "Hash": "NEzTroFfELcLjYZ7Wcmz2TQy6Dtw7jxyLpKdY+gBPgU=",
   "Source": "CftTestWebSite",
   "BasePath": "_content/CftTestWebSite",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\nicepage.css"
+    },
+    {
+      "Identity": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\paginator.css",
+      "SourceId": "CftTestWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\",
+      "BasePath": "_content/CftTestWebSite",
+      "RelativePath": "css/paginator.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\paginator.css"
     },
     {
       "Identity": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\css\\Post-Template.css",
@@ -576,6 +593,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\shared\\nicepage.js"
+    },
+    {
+      "Identity": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\shared\\paginator.js",
+      "SourceId": "CftTestWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EVRAZ\\source\\repos\\cft\\CftTestWebSite\\CftTestWebSite\\wwwroot\\",
+      "BasePath": "_content/CftTestWebSite",
+      "RelativePath": "shared/paginator.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\shared\\paginator.js"
     }
   ]
 }

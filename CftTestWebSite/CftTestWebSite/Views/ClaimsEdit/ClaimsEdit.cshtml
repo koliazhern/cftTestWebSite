@@ -7,9 +7,11 @@
     <meta name="description" content="">
     <title>Редактирование заявки</title>
     <link rel="stylesheet" href="~/css/nicepage.css" media="screen">
+    <link rel="stylesheet" href="~/css/paginator.css" media="screen">
     <link rel="stylesheet" href="~/css/Редактирование-заявки.css" media="screen">
     <script class="u-script" type="text/javascript" src="~/shared/jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="~/shared/nicepage.js" defer=""></script>
+    <script src="~/shared/paginator.js"></script>
     <meta name="generator" content="Nicepage 5.15.1, nicepage.com">
     <meta name="referrer" content="origin">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
@@ -85,7 +87,7 @@
     <section class="u-align-center u-clearfix u-section-1" id="sec-8eb3">
         <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
             <div class="u-expanded-width u-table u-table-responsive u-table-1">
-                <table class="u-table-entity u-table-entity-1">
+                <table id="tableClaims" class="u-table-entity u-table-entity-1">
                     <colgroup>
                         <col width="20%">
                         <col width="20%">
@@ -94,89 +96,91 @@
                         <col width="20%">
                     </colgroup>
                     <thead class="u-table-header u-table-header-1">
-                        <tr style="height: 70px;">
-                            <th class="u-table-cell">Название</th>
-                            <th class="u-table-cell">Приложение</th>
-                            <th class="u-table-cell">Дата окончания разработки</th>
-                            <th class="u-table-cell">Описание</th>
-                            <th class="u-table-cell">Email</th>
-                        </tr>
+                    <tr style="height: 70px;">
+                        <th class="u-table-cell">Название</th>
+                        <th class="u-table-cell">Приложение</th>
+                        <th class="u-table-cell">Дата окончания разработки</th>
+                        <th class="u-table-cell">Описание</th>
+                        <th class="u-table-cell">Email</th>
+                    </tr>
                     </thead>
                     <tbody class="u-table-alt-palette-1-light-3 u-table-body">
-                        <tr id="row1" style="height: 35px;">
-                            <td id="colName" class="u-table-cell"></td>
-                            <td id="colApp" class="u-table-cell"></td>
-                            <td id="colDateEnd" class="u-table-cell"></td>
-                            <td id="colDescription" class="u-table-cell"></td>
-                            <td id="colEmail" class="u-table-cell"></td>
-                        </tr>
-                        <tr id="row2" style="height: 35px;">
-                            <td id="colName" class="u-table-cell"></td>
-                            <td id="colApp" class="u-table-cell"></td>
-                            <td id="colDateEnd" class="u-table-cell"></td>
-                            <td id="colDescription" class="u-table-cell"></td>
-                            <td id="colEmail" class="u-table-cell"></td>
-                        </tr>
-                        <tr id="row3" style="height: 35px;">
-                            <td id="colName" class="u-table-cell"></td>
-                            <td id="colApp" class="u-table-cell"></td>
-                            <td id="colDateEnd" class="u-table-cell"></td>
-                            <td id="colDescription" class="u-table-cell"></td>
-                            <td id="colEmail" class="u-table-cell"></td>
-                        </tr>
-                        <tr id="row4" style="height: 35px;">
-                            <td id="colName" class="u-table-cell"></td>
-                            <td id="colApp" class="u-table-cell"></td>
-                            <td id="colDateEnd" class="u-table-cell"></td>
-                            <td id="colDescription" class="u-table-cell"></td>
-                            <td id="colEmail" class="u-table-cell"></td>
-                        </tr>
-                        <tr id="row5" style="height: 35px;">
-                            <td id="colName" class="u-table-cell"></td>
-                            <td id="colApp" class="u-table-cell"></td>
-                            <td id="colDateEnd" class="u-table-cell"></td>
-                            <td id="colDescription" class="u-table-cell"></td>
-                            <td id="colEmail" class="u-table-cell"></td>
-                        </tr>
-                        <tr id="row6" style="height: 35px;">
-                            <td id="colName" class="u-table-cell"></td>
-                            <td id="colApp" class="u-table-cell"></td>
-                            <td id="colDateEnd" class="u-table-cell"></td>
-                            <td id="colDescription" class="u-table-cell"></td>
-                            <td id="colEmail" class="u-table-cell"></td>
-                        </tr>
-                        <tr id="row7" style="height: 35px;">
-                            <td id="colName" class="u-table-cell"></td>
-                            <td id="colApp" class="u-table-cell"></td>
-                            <td id="colDateEnd" class="u-table-cell"></td>
-                            <td id="colDescription" class="u-table-cell"></td>
-                            <td id="colEmail" class="u-table-cell"></td>
-                        </tr>
-                        <tr id="row8" style="height: 35px;">
-                            <td id="colName" class="u-table-cell"></td>
-                            <td id="colApp" class="u-table-cell"></td>
-                            <td id="colDateEnd" class="u-table-cell"></td>
-                            <td id="colDescription" class="u-table-cell"></td>
-                            <td id="colEmail" class="u-table-cell"></td>
-                        </tr>
-                        <tr id="row9" style="height: 35px;">
-                            <td id="colName" class="u-table-cell"></td>
-                            <td id="colApp" class="u-table-cell"></td>
-                            <td id="colDateEnd" class="u-table-cell"></td>
-                            <td id="colDescription" class="u-table-cell"></td>
-                            <td id="colEmail" class="u-table-cell"></td>
-                        </tr>
-                        <tr id="row10" style="height: 35px;">
-                            <td id="colName" class="u-table-cell"></td>
-                            <td id="colApp" class="u-table-cell"></td>
-                            <td id="colDateEnd" class="u-table-cell"></td>
-                            <td id="colDescription" class="u-table-cell"></td>
-                            <td id="colEmail" class="u-table-cell"></td>
-                        </tr>
+                        <tr style="height: 35px;" onclick="location.href='/Claims'">
+                        <td id="colName" class="u-table-cell"></td>
+                        <td id="colApp" class="u-table-cell"></td>
+                        <td id="colDateEnd" class="u-table-cell"></td>
+                        <td id="colDescription" class="u-table-cell"></td>
+                        <td id="colEmail" class="u-table-cell"></td>
+                    </tr>
+                    <tr style="height: 35px;">
+                        <td id="colName" class="u-table-cell"></td>
+                        <td id="colApp" class="u-table-cell"></td>
+                        <td id="colDateEnd" class="u-table-cell"></td>
+                        <td id="colDescription" class="u-table-cell"></td>
+                        <td id="colEmail" class="u-table-cell"></td>
+                    </tr>
+                        <tr style="height: 35px;" onclick="location.href='/Home'">
+                        <td id="colName" class="u-table-cell"></td>
+                        <td id="colApp" class="u-table-cell"></td>
+                        <td id="colDateEnd" class="u-table-cell"></td>
+                        <td id="colDescription" class="u-table-cell"></td>
+                        <td id="colEmail" class="u-table-cell"></td>
+                    </tr>
+                    <tr style="height: 35px;">
+                        <td id="colName" class="u-table-cell"></td>
+                        <td id="colApp" class="u-table-cell"></td>
+                        <td id="colDateEnd" class="u-table-cell"></td>
+                        <td id="colDescription" class="u-table-cell"></td>
+                        <td id="colEmail" class="u-table-cell"></td>
+                    </tr>
+                    <tr style="height: 35px;">
+                        <td id="colName" class="u-table-cell"></td>
+                        <td id="colApp" class="u-table-cell"></td>
+                        <td id="colDateEnd" class="u-table-cell"></td>
+                        <td id="colDescription" class="u-table-cell"></td>
+                        <td id="colEmail" class="u-table-cell"></td>
+                    </tr>
+                    <tr style="height: 35px;">
+                        <td id="colName" class="u-table-cell"></td>
+                        <td id="colApp" class="u-table-cell"></td>
+                        <td id="colDateEnd" class="u-table-cell"></td>
+                        <td id="colDescription" class="u-table-cell"></td>
+                        <td id="colEmail" class="u-table-cell"></td>
+                    </tr>
+                    <tr style="height: 35px;">
+                        <td id="colName" class="u-table-cell"></td>
+                        <td id="colApp" class="u-table-cell"></td>
+                        <td id="colDateEnd" class="u-table-cell"></td>
+                        <td id="colDescription" class="u-table-cell"></td>
+                        <td id="colEmail" class="u-table-cell"></td>
+                    </tr>
+                    <tr style="height: 35px;">
+                        <td id="colName" class="u-table-cell"></td>
+                        <td id="colApp" class="u-table-cell"></td>
+                        <td id="colDateEnd" class="u-table-cell"></td>
+                        <td id="colDescription" class="u-table-cell"></td>
+                        <td id="colEmail" class="u-table-cell"></td>
+                    </tr>
+                    <tr style="height: 35px;">
+                        <td id="colName" class="u-table-cell"></td>
+                        <td id="colApp" class="u-table-cell"></td>
+                        <td id="colDateEnd" class="u-table-cell"></td>
+                        <td id="colDescription" class="u-table-cell"></td>
+                        <td id="colEmail" class="u-table-cell"></td>
+                    </tr>
+                    <tr style="height: 35px;">
+                        <td id="colName" class="u-table-cell"></td>
+                        <td id="colApp" class="u-table-cell"></td>
+                        <td id="colDateEnd" class="u-table-cell"></td>
+                        <td id="colDescription" class="u-table-cell"></td>
+                        <td id="colEmail" class="u-table-cell"></td>
+                    </tr>
                     </tbody>
                 </table>
             </div>
+            <div class="paginator" onclick="pagination(event)"></div>
         </div>
+        
     </section>
 
 

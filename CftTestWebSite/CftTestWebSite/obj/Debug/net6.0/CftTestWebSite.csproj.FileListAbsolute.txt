@@ -26,3 +26,6 @@ C:\Users\EVRAZ\source\repos\cft\CftTestWebSite\CftTestWebSite\obj\Debug\net6.0\r
 C:\Users\EVRAZ\source\repos\cft\CftTestWebSite\CftTestWebSite\obj\Debug\net6.0\CftTestWebSite.pdb
 C:\Users\EVRAZ\source\repos\cft\CftTestWebSite\CftTestWebSite\obj\Debug\net6.0\CftTestWebSite.genruntimeconfig.cache
 C:\Users\EVRAZ\source\repos\cft\CftTestWebSite\CftTestWebSite\obj\Debug\net6.0\ref\CftTestWebSite.dll
+C:\Users\EVRAZ\source\repos\cft\CftTestWebSite\CftTestWebSite\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\EVRAZ\source\repos\cft\CftTestWebSite\CftTestWebSite\obj\Debug\net6.0\CftTestWebSite.csproj.AssemblyReference.cache
+C:\Users\EVRAZ\source\repos\cft\CftTestWebSite\CftTestWebSite\obj\Debug\net6.0\CftTestWebSite.csproj.CopyComplete
