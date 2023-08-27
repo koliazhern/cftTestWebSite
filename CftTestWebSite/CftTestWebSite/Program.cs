@@ -14,5 +14,8 @@ app.MapControllerRoute(
 app.MapControllerRoute(
     name: "claimsCreation",
     pattern: "{controller=ClaimsCreation}/{id?}");
+app.MapControllerRoute(
+    name: "claimsEdit",
+    pattern: "{controller=ClaimsEdit}/{id?}");
 app.UseStaticFiles();
 app.Run();

@@ -3082,7 +3082,8 @@ aside,
 section,
 header,
 footer {
-  position: relative;
+    position: relative;
+    flex: 0 0 auto;
 }
 section > *,
 header > *,
@@ -12542,15 +12543,18 @@ section.u-image:not(.u-hover-box),
   pointer-events: initial;
 }
 .u-stick-footer {
-  display: flex;
-  flex-direction: column;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
 }
-.u-stick-footer .u-footer {
-  margin-top: auto;
-}
+    .u-stick-footer .u-footer {
+        margin-top: auto;
+        flex: 0 0 auto;
+    }
 .u-hide-header .u-header,
 .u-hide-footer .u-footer {
-  display: none;
+    display: none;
+    flex: 0 0 auto;
 }
 .u-absolute-hcenter {
   left: 50% !important;
@@ -41445,13 +41449,15 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 118px;
   }
 }
- .u-footer {
-  background-image: none;
+.u-footer {
+    background-image: none;
+    flex: 0 0 auto;
 }
 
-.u-footer .u-sheet-1 {
-  min-height: 120px;
-}
+    .u-footer .u-sheet-1 {
+        min-height: 120px;
+        flex: 0 0 auto;
+    }
 
 .u-footer .u-text-1 {
   width: 417px;

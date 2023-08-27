@@ -148,9 +148,6 @@
     <Content Update="Views\Claims\Claims.cshtml">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Content>
-    <Content Update="Views\EditClaims\EditClaims.cshtml">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </Content>
     <Content Update="Views\Claims\ViewApplications.cshtml">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Content>

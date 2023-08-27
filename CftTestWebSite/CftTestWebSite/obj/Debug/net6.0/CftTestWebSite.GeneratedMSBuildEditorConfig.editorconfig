@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zQ3JlYXRpb25cQ2xhaW1zQ3JlYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/EVRAZ/source/repos/cft/CftTestWebSite/CftTestWebSite/Views/ClaimsEdit/ClaimsEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zRWRpdFxDbGFpbXNFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/EVRAZ/source/repos/cft/CftTestWebSite/CftTestWebSite/Views/Claims/Claims.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXENsYWltcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,10 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/EVRAZ/source/repos/cft/CftTestWebSite/CftTestWebSite/Views/Claims/ViewClaims.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXFZpZXdDbGFpbXMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/EVRAZ/source/repos/cft/CftTestWebSite/CftTestWebSite/Views/EditClaims/EditClaims.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdENsYWltc1xFZGl0Q2xhaW1zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/EVRAZ/source/repos/cft/CftTestWebSite/CftTestWebSite/Views/Home/Index.cshtml]
